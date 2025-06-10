@@ -4,11 +4,13 @@ Link to see Dataset on huggingface
 
 ## RAG Dataset
 
-https://huggingface.co/datasets/kxm1k4m1/Phishing_Email_For_RAG
+**https://huggingface.co/datasets/kxm1k4m1/Phishing_Email_For_RAG**
 
 
 ## Finetune Dataset
+**https://huggingface.co/datasets/kxm1k4m1/generate_phishing_email_final**
 
-[The old one](https://huggingface.co/datasets/kxm1k4m1/Phishing_Email_For_Finetune_LLM)
+## Deploy Repo
 
-[The new one](https://huggingface.co/datasets/kxm1k4m1/generate_phishing_email_1300_rows)
+**https://github.com/KamiK4M1/Phishing_Content_Generation_Deploy**
+
