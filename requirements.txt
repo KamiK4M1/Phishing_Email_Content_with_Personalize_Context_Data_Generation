@@ -1,0 +1,13 @@
+transformers
+datasets
+bitsandbytes
+accelerate
+peft
+trl==0.12.0
+unsloth
+triton==3.1.0
+pynvml
+unsloth_zoo
+chromadb 
+faker
+langchain-community
